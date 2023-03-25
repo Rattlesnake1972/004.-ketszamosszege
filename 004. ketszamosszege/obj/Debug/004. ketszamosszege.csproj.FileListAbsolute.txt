@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\004. ketszamosszege\004. ketszamosszege\bin\Debug\_004.ketszamosszege.exe.config
+C:\Users\gratt\source\repos\004. ketszamosszege\004. ketszamosszege\bin\Debug\_004.ketszamosszege.exe
+C:\Users\gratt\source\repos\004. ketszamosszege\004. ketszamosszege\bin\Debug\_004.ketszamosszege.pdb
+C:\Users\gratt\source\repos\004. ketszamosszege\004. ketszamosszege\obj\Debug\004. ketszamosszege.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\004. ketszamosszege\004. ketszamosszege\obj\Debug\_004.ketszamosszege.exe
+C:\Users\gratt\source\repos\004. ketszamosszege\004. ketszamosszege\obj\Debug\_004.ketszamosszege.pdb
